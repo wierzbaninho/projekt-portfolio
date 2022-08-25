@@ -83,6 +83,12 @@ section {
     background-color: #007bff;
 
 }
+label[for="drop-nav"]{
+    display: none;
+
+    
+}
+
 #drop-nav {
     display: none;
 }
